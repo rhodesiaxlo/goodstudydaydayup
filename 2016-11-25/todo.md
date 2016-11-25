@@ -4,5 +4,13 @@
 3. git submodule
 4. how to clone develop environment from one machine to another
 5. remotely install using curl
+```
+h -c "`curl -fsSL https://raw.github.com/nicksp/dotfiles/master/remote-setup.sh`"
+```
+or
+```
+sh -c "`wget -O - --no-check-certificate https://raw.githubusercontent.com/nicksp/dotfiles/master/remote-setup.sh`"
+```
+
 
 
