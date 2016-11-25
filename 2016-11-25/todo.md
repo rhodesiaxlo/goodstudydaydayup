@@ -11,6 +11,6 @@ or
 ```
 sh -c "`wget -O - --no-check-certificate https://raw.githubusercontent.com/nicksp/dotfiles/master/remote-setup.sh`"
 ```
-
+6.图片路径定义 
 
 
