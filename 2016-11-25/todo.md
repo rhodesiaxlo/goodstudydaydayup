@@ -13,5 +13,6 @@ sh -c "`wget -O - --no-check-certificate https://raw.githubusercontent.com/nicks
 ```
 6. 图片路径定义 
 7. 整理代码
+8. how to use nodejd in application
 
 
