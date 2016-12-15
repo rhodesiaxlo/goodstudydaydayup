@@ -6,7 +6,7 @@
    dialog
    wating/uploading
    pagination
-   image upload image crop image compress
+   image upload image crop image compress water-mark
    areapicker
    js AMD
    why developing software under phalcon framework can be so fast 
