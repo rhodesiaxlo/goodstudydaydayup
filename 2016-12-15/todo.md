@@ -18,5 +18,6 @@
 11.map payment excel qrcode third-party-login
 12. call_function
 13. exception handling
+14. browser compatiable
 
 
